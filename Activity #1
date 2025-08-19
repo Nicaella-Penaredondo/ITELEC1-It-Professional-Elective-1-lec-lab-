@@ -21,10 +21,18 @@ public class Main {
   public static void main(String[] args) {
   
     int sum = 19 + 69;
-
-    System.out.println(sum);  
+    int x = 8;
+    int y = 19;
+    
+    System.out.println(sum); 
+    System.out.println(x - y);
+    System.out.println(x * y);
+    System.out.println(x / y);
+    System.out.println(x % y);
+  
   }
 }
+
 
 
 
